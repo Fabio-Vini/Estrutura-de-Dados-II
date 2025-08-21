@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\Projeto Bilheteria\bin\Debug\Projeto Bilheteria.exe.config
+C:\Users\fabin\source\repos\Projeto Bilheteria\bin\Debug\Projeto Bilheteria.exe
+C:\Users\fabin\source\repos\Projeto Bilheteria\bin\Debug\Projeto Bilheteria.pdb
+C:\Users\fabin\source\repos\Projeto Bilheteria\obj\Debug\Projeto Bilheteria.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Projeto Bilheteria\obj\Debug\Projeto Bilheteria.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Projeto Bilheteria\obj\Debug\Projeto_Bilheteria.Properties.Resources.resources
+C:\Users\fabin\source\repos\Projeto Bilheteria\obj\Debug\Projeto Bilheteria.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Projeto Bilheteria\obj\Debug\Projeto Bilheteria.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Projeto Bilheteria\obj\Debug\Projeto Bilheteria.exe
+C:\Users\fabin\source\repos\Projeto Bilheteria\obj\Debug\Projeto Bilheteria.pdb
+C:\Users\fabin\source\repos\Projeto Bilheteria\obj\Debug\Projeto_Bilheteria.Form1.resources
