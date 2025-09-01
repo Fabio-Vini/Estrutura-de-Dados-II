@@ -1,0 +1,8 @@
+C:\Users\fabin\source\repos\MVC\bin\Debug\MVC.exe.config
+C:\Users\fabin\source\repos\MVC\bin\Debug\MVC.exe
+C:\Users\fabin\source\repos\MVC\bin\Debug\MVC.pdb
+C:\Users\fabin\source\repos\MVC\obj\Debug\MVC.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\MVC\obj\Debug\MVC.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\MVC\obj\Debug\MVC.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\MVC\obj\Debug\MVC.exe
+C:\Users\fabin\source\repos\MVC\obj\Debug\MVC.pdb
