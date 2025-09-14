@@ -1,0 +1,8 @@
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 25-08-2025 -MVC_Restaurante\mvcRestaurante\bin\Debug\mvcRestaurante.exe.config
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 25-08-2025 -MVC_Restaurante\mvcRestaurante\bin\Debug\mvcRestaurante.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 25-08-2025 -MVC_Restaurante\mvcRestaurante\bin\Debug\mvcRestaurante.pdb
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 25-08-2025 -MVC_Restaurante\mvcRestaurante\obj\Debug\mvcRestaurante.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 25-08-2025 -MVC_Restaurante\mvcRestaurante\obj\Debug\mvcRestaurante.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 25-08-2025 -MVC_Restaurante\mvcRestaurante\obj\Debug\mvcRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 25-08-2025 -MVC_Restaurante\mvcRestaurante\obj\Debug\mvcRestaurante.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 25-08-2025 -MVC_Restaurante\mvcRestaurante\obj\Debug\mvcRestaurante.pdb
