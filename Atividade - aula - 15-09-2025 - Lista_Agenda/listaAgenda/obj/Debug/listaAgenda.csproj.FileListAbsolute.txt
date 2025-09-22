@@ -1,0 +1,8 @@
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 15-09-2025 - Lista_Agenda\listaAgenda\bin\Debug\listaAgenda.exe.config
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 15-09-2025 - Lista_Agenda\listaAgenda\bin\Debug\listaAgenda.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 15-09-2025 - Lista_Agenda\listaAgenda\bin\Debug\listaAgenda.pdb
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 15-09-2025 - Lista_Agenda\listaAgenda\obj\Debug\listaAgenda.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 15-09-2025 - Lista_Agenda\listaAgenda\obj\Debug\listaAgenda.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 15-09-2025 - Lista_Agenda\listaAgenda\obj\Debug\listaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 15-09-2025 - Lista_Agenda\listaAgenda\obj\Debug\listaAgenda.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 15-09-2025 - Lista_Agenda\listaAgenda\obj\Debug\listaAgenda.pdb
