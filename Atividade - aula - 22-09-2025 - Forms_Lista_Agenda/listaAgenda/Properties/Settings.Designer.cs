@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace lista_agenda.Properties
+namespace listaAgenda.Properties
 {
 
 

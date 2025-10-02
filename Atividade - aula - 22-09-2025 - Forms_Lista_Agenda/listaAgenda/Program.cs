@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace lista_agenda
+namespace listaAgenda
 {
     internal static class Program
     {
