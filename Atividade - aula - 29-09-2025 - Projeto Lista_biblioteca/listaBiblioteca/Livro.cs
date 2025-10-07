@@ -12,12 +12,13 @@ namespace listaBiblioteca
         private string titulo;
         private string autor;
         private string editora;
-        List<Exemplar> exemplares = new List<Exemplar>();
+        private List<Exemplar> _exemplares = new List<Exemplar>();
 
         public int Isbn { get {  return isbn; } set {  isbn = value; } }
         public string Titulo { get {  return titulo; } set {  titulo = value; } }
         public string Autor { get {  return autor; } set {  autor = value; } }
         public string Editora { get { return editora;  } set { editora = value; } }
+        public List<Exemplar> exemplares { get { return _exemplares; } set { _exemplares = value; } }
 
         public Livro(int isbn, string titulo, string autor, string editora)
         {
@@ -29,27 +30,31 @@ namespace listaBiblioteca
 
         public void adicinarExemplar(Exemplar exemplar)
         {
-
+            exemplares.Add(exemplar);
         }
 
         public int qtdeExemplares()
         {
-            return 0;
+            return exemplares.Count;
         }
 
         public int qtdeDisponiveis()
         {
-            return 0;
+            return exemplares.Count(e => e.disponivel());
         }
 
         public int qtdeEmprestimos()
         {
-            return 0;
+            return exemplares.Sum(e => e.qtdeEmprestimos());
         }
 
-        public double percDisponibilidae()
+        public double percDisponibilidade()
         {
-            return 0;
+            if(qtdeExemplares() == 0)
+            {
+                return 0;
+            }
+            return (double)qtdeDisponiveis() / qtdeExemplares() * 100;
         }
     }
 }

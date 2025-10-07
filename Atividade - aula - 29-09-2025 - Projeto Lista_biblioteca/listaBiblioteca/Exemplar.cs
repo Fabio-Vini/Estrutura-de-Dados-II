@@ -9,9 +9,10 @@ namespace listaBiblioteca
     internal class Exemplar
     {
         private int tombo;
-        List<Emprestimo> emprestimos = new List<Emprestimo>();
+        private List<Emprestimo> _emprestimos = new List<Emprestimo>();
 
         public int Tombo { get { return tombo; } set {  tombo = value; } }
+        public List<Emprestimo> emprestimos { get { return _emprestimos; } set { _emprestimos = value; } }
 
         public Exemplar(int tombo)
         {
@@ -20,19 +21,31 @@ namespace listaBiblioteca
 
         public bool emprestar()
         {
+            if(disponivel())
+            {
+                emprestimos.Add(new Emprestimo());
+                return true;
+            }
             return false;
         }
         public bool devolver()
         {
+            //LastOrDefault retorna o ultimo elemento que atende àquela condição
+            var emprestimo = emprestimos.LastOrDefault(e => e.DtDevolucao == DateTime.MinValue);
+            if(emprestimo != null)
+            {
+                emprestimo.DtDevolucao = DateTime.Now;
+            }
             return false;
         }
         public bool disponivel()
         {
-            return false;
+            //Any serve para verificar se algum elemento da lista atende a alguma condição
+            return !emprestimos.Any(e => e.DtDevolucao == DateTime.MinValue);
         }
         public int qtdeEmprestimos()
         {
-            return 0;
+            return emprestimos.Count;
         }
 
     }
