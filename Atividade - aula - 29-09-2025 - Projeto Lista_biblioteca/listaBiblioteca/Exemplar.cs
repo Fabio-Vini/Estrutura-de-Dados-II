@@ -17,6 +17,7 @@ namespace listaBiblioteca
         public Exemplar(int tombo)
         {
             this.tombo = tombo;
+            emprestimos = new List<Emprestimo>();
         }
 
         public bool emprestar()
@@ -31,17 +32,21 @@ namespace listaBiblioteca
         public bool devolver()
         {
             //LastOrDefault retorna o ultimo elemento que atende àquela condição
-            var emprestimo = emprestimos.LastOrDefault(e => e.DtDevolucao == DateTime.MinValue);
-            if(emprestimo != null)
+            Emprestimo emp = emprestimos.LastOrDefault(e => e.DtDevolucao == null);
+            if (emp != null)
             {
-                emprestimo.DtDevolucao = DateTime.Now;
+                emp.DtDevolucao = DateTime.Now;
+                return true;
             }
             return false;
         }
         public bool disponivel()
         {
-            //Any serve para verificar se algum elemento da lista atende a alguma condição
-            return !emprestimos.Any(e => e.DtDevolucao == DateTime.MinValue);
+            if (emprestimos.Count == 0)
+                return true;
+
+            // Está disponível se o último empréstimo tiver data de devolução
+            return emprestimos.Last().DtDevolucao != null;
         }
         public int qtdeEmprestimos()
         {

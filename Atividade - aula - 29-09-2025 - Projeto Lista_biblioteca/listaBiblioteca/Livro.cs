@@ -28,7 +28,7 @@ namespace listaBiblioteca
             this.editora = editora;
         }
 
-        public void adicinarExemplar(Exemplar exemplar)
+        public void adicionarExemplar(Exemplar exemplar)
         {
             exemplares.Add(exemplar);
         }

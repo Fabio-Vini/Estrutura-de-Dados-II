@@ -1,0 +1,8 @@
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 29-09-2025 - Projeto Lista_biblioteca\listaBiblioteca\bin\Debug\listaBiblioteca.exe.config
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 29-09-2025 - Projeto Lista_biblioteca\listaBiblioteca\bin\Debug\listaBiblioteca.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 29-09-2025 - Projeto Lista_biblioteca\listaBiblioteca\bin\Debug\listaBiblioteca.pdb
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 29-09-2025 - Projeto Lista_biblioteca\listaBiblioteca\obj\Debug\listaBiblioteca.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 29-09-2025 - Projeto Lista_biblioteca\listaBiblioteca\obj\Debug\listaBiblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 29-09-2025 - Projeto Lista_biblioteca\listaBiblioteca\obj\Debug\listaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 29-09-2025 - Projeto Lista_biblioteca\listaBiblioteca\obj\Debug\listaBiblioteca.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 29-09-2025 - Projeto Lista_biblioteca\listaBiblioteca\obj\Debug\listaBiblioteca.pdb
