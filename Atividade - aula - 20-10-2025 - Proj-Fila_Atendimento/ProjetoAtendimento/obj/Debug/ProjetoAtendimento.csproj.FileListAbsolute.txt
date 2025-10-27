@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe.config
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.pdb
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Form1.resources
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Properties.Resources.resources
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividade - aula - 20-10-2025 - Proj-Fila_Atendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.pdb
