@@ -1,0 +1,8 @@
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 30-10-2025 - Proj-Fila_Medicamento\Fila_medicamento\bin\Debug\Fila_medicamento.exe.config
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 30-10-2025 - Proj-Fila_Medicamento\Fila_medicamento\bin\Debug\Fila_medicamento.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 30-10-2025 - Proj-Fila_Medicamento\Fila_medicamento\bin\Debug\Fila_medicamento.pdb
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 30-10-2025 - Proj-Fila_Medicamento\Fila_medicamento\obj\Debug\Fila_medicamento.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 30-10-2025 - Proj-Fila_Medicamento\Fila_medicamento\obj\Debug\Fila_medicamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 30-10-2025 - Proj-Fila_Medicamento\Fila_medicamento\obj\Debug\Fila_medicamento.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 30-10-2025 - Proj-Fila_Medicamento\Fila_medicamento\obj\Debug\Fila_medicamento.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 30-10-2025 - Proj-Fila_Medicamento\Fila_medicamento\obj\Debug\Fila_medicamento.pdb
