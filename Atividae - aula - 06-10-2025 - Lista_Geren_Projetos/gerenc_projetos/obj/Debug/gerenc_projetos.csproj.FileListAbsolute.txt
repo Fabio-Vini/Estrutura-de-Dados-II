@@ -1,0 +1,8 @@
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 06-10-2025 - Lista_Geren_Projetos\gerenc_projetos\bin\Debug\gerenc_projetos.exe.config
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 06-10-2025 - Lista_Geren_Projetos\gerenc_projetos\bin\Debug\gerenc_projetos.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 06-10-2025 - Lista_Geren_Projetos\gerenc_projetos\bin\Debug\gerenc_projetos.pdb
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 06-10-2025 - Lista_Geren_Projetos\gerenc_projetos\obj\Debug\gerenc_projetos.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 06-10-2025 - Lista_Geren_Projetos\gerenc_projetos\obj\Debug\gerenc_projetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 06-10-2025 - Lista_Geren_Projetos\gerenc_projetos\obj\Debug\gerenc_projetos.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 06-10-2025 - Lista_Geren_Projetos\gerenc_projetos\obj\Debug\gerenc_projetos.exe
+C:\Users\fabin\source\repos\Estrutura-de-Dados-II\Atividae - aula - 06-10-2025 - Lista_Geren_Projetos\gerenc_projetos\obj\Debug\gerenc_projetos.pdb
